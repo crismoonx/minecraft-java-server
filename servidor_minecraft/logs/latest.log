@@ -70,3 +70,17 @@
 [15Dec2024 19:46:29.588] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@31e4717e
 [15Dec2024 19:46:29.598] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: crismoonx[/127.90.138.235:54677] logged in with entity id 1702 at (69.06452703789238, 64.5625, 190.3888120889534)
 [15Dec2024 19:46:29.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crismoonx joined the game
+[15Dec2024 20:04:57.144] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: crismoonx moved too quickly! 7.08433085615934,1.2491870787446793,-7.224661114612189
+[15Dec2024 20:05:03.561] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: crismoonx lost connection: Disconnected
+[15Dec2024 20:05:03.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crismoonx left the game
+[15Dec2024 20:05:58.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[15Dec2024 20:05:58.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[15Dec2024 20:05:58.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[15Dec2024 20:05:58.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[15Dec2024 20:05:59.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15Dec2024 20:05:59.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[15Dec2024 20:05:59.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[15Dec2024 20:05:59.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15Dec2024 20:05:59.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15Dec2024 20:05:59.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15Dec2024 20:05:59.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
