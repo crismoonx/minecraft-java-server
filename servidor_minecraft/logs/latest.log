@@ -311,3 +311,5 @@ Missing minecraft:entity_type:
 [15Dec2024 07:59:20.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crismoonx joined the game
 [15Dec2024 08:01:22.120] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/253, l='ServerLevel[world]', x=66.82, y=26.42, z=227.33] died, message: 'Villager was slain by Zombie'
 [15Dec2024 08:13:55.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crismoonx has made the advancement [Acquire Hardware]
+[15Dec2024 08:49:35.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crismoonx has made the advancement [Not Today, Thank You]
+[15Dec2024 08:54:27.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crismoonx has made the advancement [Suit Up]
