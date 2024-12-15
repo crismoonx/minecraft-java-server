@@ -538,9 +538,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/sleep_in_bed": {
+  "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
-      "slept_in_bed": "2024-12-14 19:41:53 +0000"
+      "has_sand": "2024-12-14 19:38:05 +0000"
     },
     "done": true
   },
@@ -550,9 +550,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sandstone": {
+  "minecraft:adventure/sleep_in_bed": {
     "criteria": {
-      "has_sand": "2024-12-14 19:38:05 +0000"
+      "slept_in_bed": "2024-12-14 19:41:53 +0000"
     },
     "done": true
   },
