@@ -1253,3 +1253,8 @@ Missing minecraft:entity_type:
 [15Dec2024 08:01:22.120] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/253, l='ServerLevel[world]', x=66.82, y=26.42, z=227.33] died, message: 'Villager was slain by Zombie'
 [15Dec2024 08:02:05.415] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [15Dec2024 08:02:05.422] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Dec2024 08:07:05.419] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Dec2024 08:07:05.460] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Dec2024 08:12:05.406] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Dec2024 08:12:05.453] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Dec2024 08:13:55.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crismoonx has made the advancement [Acquire Hardware]

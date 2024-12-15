@@ -310,3 +310,4 @@ Missing minecraft:entity_type:
 [15Dec2024 07:59:20.577] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: crismoonx[/127.90.138.235:48145] logged in with entity id 199 at (34.34620391589507, 66.0, 209.4494022095097)
 [15Dec2024 07:59:20.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crismoonx joined the game
 [15Dec2024 08:01:22.120] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/253, l='ServerLevel[world]', x=66.82, y=26.42, z=227.33] died, message: 'Villager was slain by Zombie'
+[15Dec2024 08:13:55.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crismoonx has made the advancement [Acquire Hardware]
