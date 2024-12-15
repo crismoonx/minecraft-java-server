@@ -61,3 +61,6 @@
 [15Dec2024 19:21:51.744] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 8554 ms
 [15Dec2024 19:21:51.745] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (8.968s)! For help, type "help"
 [15Dec2024 19:21:51.753] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[15Dec2024 19:33:53.368] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7abf0370
+[15Dec2024 19:33:53.382] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: crismoonx[/127.90.138.235:58787] logged in with entity id 193 at (39.815293074017475, 68.0, 180.74074260320145)
+[15Dec2024 19:33:53.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crismoonx joined the game
