@@ -1042,3 +1042,7 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [15Dec2024 19:46:29.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crismoonx joined the game
 [15Dec2024 19:46:51.737] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [15Dec2024 19:46:51.741] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Dec2024 19:51:51.749] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Dec2024 19:51:51.793] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Dec2024 19:56:51.735] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Dec2024 19:56:51.741] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
