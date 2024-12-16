@@ -67,3 +67,8 @@
 [16Dec2024 01:26:34.633] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3737cffd
 [16Dec2024 01:26:34.657] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: crismoonx[/127.90.138.235:52071] logged in with entity id 138 at (90.32711789399073, 15.0, 232.24132206980056)
 [16Dec2024 01:26:34.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crismoonx joined the game
+[16Dec2024 01:34:14.232] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: crismoonx lost connection: Disconnected
+[16Dec2024 01:34:14.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crismoonx left the game
+[16Dec2024 01:34:43.452] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@450fa790
+[16Dec2024 01:34:43.462] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: crismoonx[/127.90.138.235:49779] logged in with entity id 1491 at (53.179342778959544, 65.9375, 199.0741005185916)
+[16Dec2024 01:34:43.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crismoonx joined the game
