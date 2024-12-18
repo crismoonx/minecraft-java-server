@@ -69,3 +69,5 @@
 [18Dec2024 01:55:53.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crismoonx joined the game
 [18Dec2024 01:59:33.709] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7d27f174
 [18Dec2024 02:05:08.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crismoonx was blown up by Creeper
+[18Dec2024 02:22:01.705] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: crismoonx lost connection: Disconnected
+[18Dec2024 02:22:01.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crismoonx left the game
