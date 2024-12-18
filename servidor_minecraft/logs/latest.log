@@ -77,3 +77,14 @@
 [18Dec2024 02:27:50.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crismoonx was blown up by Creeper
 [18Dec2024 02:32:51.105] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: crismoonx lost connection: Disconnected
 [18Dec2024 02:32:51.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crismoonx left the game
+[18Dec2024 02:59:20.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[18Dec2024 02:59:20.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[18Dec2024 02:59:20.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[18Dec2024 02:59:20.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[18Dec2024 02:59:21.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18Dec2024 02:59:21.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[18Dec2024 02:59:21.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[18Dec2024 02:59:21.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18Dec2024 02:59:21.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18Dec2024 02:59:21.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18Dec2024 02:59:21.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
