@@ -64,3 +64,7 @@
 [25Dec2024 01:33:30.434] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: crismoonx[/127.100.117.70:44901] logged in with entity id 147 at (-50.39525900407062, 72.0, 205.44460893169247)
 [25Dec2024 01:33:30.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crismoonx joined the game
 [25Dec2024 01:34:30.717] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/260, l='ServerLevel[world]', x=-12.30, y=68.00, z=204.49] died, message: 'Cleric was slain by Zombie'
+[25Dec2024 01:45:24.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: crismoonx was blown up by Creeper
+[25Dec2024 01:47:04.794] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: crismoonx moved wrongly!
+[25Dec2024 01:47:04.966] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: crismoonx moved wrongly!
+[25Dec2024 01:47:05.165] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: crismoonx moved wrongly!
