@@ -9,8 +9,10 @@
     "criteria": {
       "minecraft:bamboo_jungle": "2025-06-30 04:36:37 +0000",
       "minecraft:sparse_jungle": "2025-06-30 04:37:42 +0000",
+      "minecraft:river": "2025-07-06 20:58:01 +0000",
       "minecraft:forest": "2025-06-30 05:19:22 +0000",
-      "minecraft:lush_caves": "2025-06-30 04:48:52 +0000"
+      "minecraft:lush_caves": "2025-06-30 04:48:52 +0000",
+      "minecraft:jungle": "2025-07-06 20:58:07 +0000"
     },
     "done": false
   },
@@ -442,6 +444,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-07-06 21:17:47 +0000",
       "chicken": "2025-06-30 05:25:33 +0000",
       "cooked_beef": "2025-06-30 05:02:11 +0000",
       "rotten_flesh": "2025-06-30 05:26:12 +0000",
@@ -700,6 +703,78 @@
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_feather": "2025-06-30 05:25:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-07-06 21:02:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2025-07-06 21:18:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-07-06 21:18:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-06 21:18:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2025-07-06 21:18:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2025-07-06 21:18:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2025-07-06 21:18:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-06 21:18:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2025-07-06 21:18:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2025-07-06 21:18:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-06 21:18:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-06 21:18:28 +0000"
     },
     "done": true
   },
