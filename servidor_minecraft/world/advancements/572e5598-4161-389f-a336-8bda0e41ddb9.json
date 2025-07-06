@@ -629,39 +629,17 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+  "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "has_chicken": "2025-06-30 05:25:29 +0000"
+      "minecraft:skeleton": "2025-06-30 05:03:30 +0000",
+      "minecraft:zombie": "2025-06-30 05:26:02 +0000",
+      "minecraft:zombie_villager": "2025-06-30 05:23:38 +0000"
     },
-    "done": true
+    "done": false
   },
-  "minecraft:recipes/food/cooked_porkchop": {
+  "minecraft:adventure/kill_a_mob": {
     "criteria": {
-      "has_porkchop": "2025-06-30 05:22:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_chicken": {
-    "criteria": {
-      "has_chicken": "2025-06-30 05:25:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/brown_dye": {
-    "criteria": {
-      "has_cocoa_beans": "2025-06-30 05:21:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_chicken_from_smoking": {
-    "criteria": {
-      "has_chicken": "2025-06-30 05:25:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/arrow": {
-    "criteria": {
-      "has_feather": "2025-06-30 05:25:29 +0000"
+      "minecraft:skeleton": "2025-06-30 05:03:30 +0000"
     },
     "done": true
   },
@@ -671,13 +649,23 @@
     },
     "done": true
   },
-  "minecraft:adventure/kill_all_mobs": {
+  "minecraft:recipes/misc/brown_dye": {
     "criteria": {
-      "minecraft:skeleton": "2025-06-30 05:03:30 +0000",
-      "minecraft:zombie": "2025-06-30 05:26:02 +0000",
-      "minecraft:zombie_villager": "2025-06-30 05:23:38 +0000"
+      "has_cocoa_beans": "2025-06-30 05:21:23 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2025-06-30 05:21:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-06-30 05:22:42 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
@@ -691,15 +679,27 @@
     },
     "done": true
   },
-  "minecraft:adventure/kill_a_mob": {
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
-      "minecraft:skeleton": "2025-06-30 05:03:30 +0000"
+      "has_chicken": "2025-06-30 05:25:29 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cookie": {
+  "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
-      "has_cocoa": "2025-06-30 05:21:23 +0000"
+      "has_chicken": "2025-06-30 05:25:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-06-30 05:25:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-06-30 05:25:29 +0000"
     },
     "done": true
   },
