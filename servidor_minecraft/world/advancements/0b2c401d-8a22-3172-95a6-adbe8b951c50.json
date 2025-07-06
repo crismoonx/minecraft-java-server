@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-07-06 22:23:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-07-06 20:36:07 +0000"
@@ -119,6 +125,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-07-06 22:24:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-07-06 21:01:31 +0000"
@@ -134,6 +146,12 @@
   "minecraft:recipes/building_blocks/jungle_wood": {
     "criteria": {
       "has_log": "2025-07-06 20:00:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-07-06 22:14:54 +0000"
     },
     "done": true
   },
@@ -188,6 +206,12 @@
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2025-07-06 20:23:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-07-06 22:24:02 +0000"
     },
     "done": true
   },
@@ -734,6 +758,9 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "bread": "2025-07-06 22:22:33 +0000",
+      "golden_apple": "2025-07-06 22:19:51 +0000",
+      "rotten_flesh": "2025-07-06 22:20:12 +0000",
       "melon_slice": "2025-07-06 20:25:51 +0000"
     },
     "done": false
@@ -777,6 +804,12 @@
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2025-07-06 20:23:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-07-06 22:23:58 +0000"
     },
     "done": true
   },
@@ -879,6 +912,12 @@
   "cgm:recipes/misc/workbench": {
     "criteria": {
       "has_iron": "2025-07-06 20:36:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-07-06 22:23:58 +0000"
     },
     "done": true
   },
