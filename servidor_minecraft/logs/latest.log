@@ -186,3 +186,46 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [08Jul2025 04:18:14.402] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [in_your_world:in_your_world] rejected their client side version number
 [08Jul2025 04:18:14.403] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
 [08Jul2025 04:18:14.432] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@269b6a56[id=<null>,name=andrewstenfield,properties={},legacy=false] (/127.49.33.107:40271) lost connection: Connection closed - mismatched mod channel list
+[08Jul2025 04:21:22.991] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: andrewstenfield[/127.49.33.107:52235] logged in with entity id 140 at (45.63091803383557, 104.43152384527073, 132.71671550808534)
+[08Jul2025 04:21:23.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: andrewstenfield joined the game
+[08Jul2025 04:21:24.242] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[08Jul2025 04:21:24.784] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: andrewstenfield lost connection: Disconnected
+[08Jul2025 04:21:24.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: andrewstenfield left the game
+[08Jul2025 04:21:24.921] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[08Jul2025 04:21:33.160] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: andrewstenfield[/127.49.33.107:59497] logged in with entity id 198 at (45.63091803383557, 104.43152384527073, 132.71671550808534)
+[08Jul2025 04:21:33.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: andrewstenfield joined the game
+[08Jul2025 04:21:34.650] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: andrewstenfield lost connection: Disconnected
+[08Jul2025 04:21:34.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: andrewstenfield left the game
+[08Jul2025 04:21:46.405] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: andrewstenfield[/127.49.33.107:59945] logged in with entity id 228 at (45.63091803383557, 103.2864171446191, 132.71671550808534)
+[08Jul2025 04:21:46.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: andrewstenfield joined the game
+[08Jul2025 04:21:48.949] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: andrewstenfield lost connection: Disconnected
+[08Jul2025 04:21:48.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: andrewstenfield left the game
+[08Jul2025 04:21:56.447] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: andrewstenfield[/127.49.33.107:35947] logged in with entity id 263 at (45.63091803383557, 103.05278513857661, 132.71671550808534)
+[08Jul2025 04:21:56.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: andrewstenfield joined the game
+[08Jul2025 04:21:56.621] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[08Jul2025 04:22:01.782] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[08Jul2025 04:22:03.476] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[08Jul2025 04:22:11.828] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[08Jul2025 04:22:13.827] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[08Jul2025 04:22:26.486] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: andrewstenfield lost connection: Timed out
+[08Jul2025 04:22:26.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: andrewstenfield left the game
+[08Jul2025 04:22:26.544] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[08Jul2025 04:22:35.189] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: andrewstenfield[/127.49.33.107:52289] logged in with entity id 357 at (45.63091803383557, 103.05278513857661, 132.71671550808534)
+[08Jul2025 04:22:35.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: andrewstenfield joined the game
+[08Jul2025 04:22:35.344] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_visitor but it was marked as removed already
+[08Jul2025 04:22:37.232] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: andrewstenfield lost connection: Disconnected
+[08Jul2025 04:22:37.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: andrewstenfield left the game
+[08Jul2025 04:23:03.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[08Jul2025 04:23:03.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[08Jul2025 04:23:03.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[08Jul2025 04:23:03.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[08Jul2025 04:23:06.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[08Jul2025 04:23:06.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[08Jul2025 04:23:06.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[08Jul2025 04:23:06.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/man:halucination
+[08Jul2025 04:23:06.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[08Jul2025 04:23:06.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08Jul2025 04:23:06.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08Jul2025 04:23:06.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (halucination): All chunks are saved
+[08Jul2025 04:23:06.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[08Jul2025 04:23:06.329] [Server thread/INFO] [Framework/]: Unloading server configs...
