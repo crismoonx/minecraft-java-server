@@ -7705,3 +7705,16 @@ Missing minecraft:entity_type:
 [09Jul2025 06:59:38.906] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
 [09Jul2025 06:59:39.560] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HideLick_MC lost connection: Disconnected
 [09Jul2025 06:59:39.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HideLick_MC left the game
+[09Jul2025 07:09:06.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[09Jul2025 07:09:06.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[09Jul2025 07:09:06.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[09Jul2025 07:09:06.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[09Jul2025 07:09:06.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[09Jul2025 07:09:07.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[09Jul2025 07:09:07.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[09Jul2025 07:09:07.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[09Jul2025 07:09:07.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[09Jul2025 07:09:07.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[09Jul2025 07:09:07.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[09Jul2025 07:09:07.233] [Server thread/INFO] [Framework/]: Unloading server configs...
+[09Jul2025 07:09:07.234] [Server thread/INFO] [Framework/]: Finished unloading server configs
