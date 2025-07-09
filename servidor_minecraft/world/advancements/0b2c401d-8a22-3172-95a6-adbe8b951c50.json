@@ -485,12 +485,6 @@
     },
     "done": true
   },
-  "in_your_world:behind": {
-    "criteria": {
-      "behind": "2025-07-08 05:15:08 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2025-07-08 05:15:16 +0000"
@@ -1079,12 +1073,6 @@
     },
     "done": true
   },
-  "in_your_world:te_veo": {
-    "criteria": {
-      "te_veo": "2025-07-08 06:00:15 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2025-07-08 06:02:08 +0000"
@@ -1220,12 +1208,6 @@
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2025-07-08 07:40:21 +0000"
-    },
-    "done": true
-  },
-  "in_your_world:meet_you": {
-    "criteria": {
-      "meet_you": "2025-07-08 07:46:48 +0000"
     },
     "done": true
   },
@@ -1634,6 +1616,12 @@
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2025-07-08 10:33:36 +0000"
+    },
+    "done": true
+  },
+  "jeg:scrap_workbench": {
+    "criteria": {
+      "Item": "2025-07-09 04:45:23 +0000"
     },
     "done": true
   },
