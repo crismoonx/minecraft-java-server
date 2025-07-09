@@ -1890,6 +1890,12 @@
     },
     "done": true
   },
+  "apollyon:condemned_to_die": {
+    "criteria": {
+      "condemned_to_die": "2025-07-09 06:56:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-07-09 06:29:55 +0000"
