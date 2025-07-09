@@ -1619,6 +1619,12 @@
     },
     "done": true
   },
+  "apollyon:apollyon": {
+    "criteria": {
+      "apollyon": "2025-07-09 04:58:47 +0000"
+    },
+    "done": true
+  },
   "jeg:scrap_workbench": {
     "criteria": {
       "Item": "2025-07-09 04:45:23 +0000"
