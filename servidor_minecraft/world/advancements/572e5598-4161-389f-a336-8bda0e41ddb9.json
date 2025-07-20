@@ -1579,12 +1579,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/coarse_dirt": {
-    "criteria": {
-      "has_gravel": "2025-07-19 01:02:01 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2025-07-19 00:52:20 +0000"
@@ -1597,15 +1591,21 @@
     },
     "done": true
   },
-  "mirror_horror_project:wasted_crystal": {
-    "criteria": {
-      "wasted_crystal_0": "2025-07-19 01:02:04 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/conduit": {
     "criteria": {
       "has_nautilus_shell": "2025-07-19 01:01:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-07-19 01:02:01 +0000"
+    },
+    "done": true
+  },
+  "mirror_horror_project:wasted_crystal": {
+    "criteria": {
+      "wasted_crystal_0": "2025-07-19 01:02:04 +0000"
     },
     "done": true
   },
